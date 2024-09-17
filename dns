@@ -3,15 +3,8 @@
 <plist version="1.0">
 <dict>
     <key>PayloadConfirmedBy</key>
-    <string>nhtspeed.bio.link</string>
+    <string>khoindvn.eu.org</string>
     <key>PayloadContent</key>
-    <string>This profile enables NextDNS and CloudflareDNS on all networks using the native Encrypted DNS feature,Customized and integrated from creator NHT
-1. Tuyệt đối Không Sử dụng VPN khác khi sữ dụng cẩu hình DNS này
-2. Block default device:Chặn mặc định trên thiết bị không qua trung gian nào.
-3. Sử dụng chứng chỉ đã bị thu hồi sẽ giúp bạn dùng lâu dài nhất có thể
-4. Chặn quảng cáo đã cập nhập cả chặn thu hồi khả năng chặn trên trình duyệt khá ổn.
-5. Cần support: liên hệ zalo 0349333397
-</string>
     <array>
         <dict>
             <key>DNSSettings</key>
@@ -31,7 +24,6 @@
             <key>PayloadDisplayName</key>
             <string>Chặn thu hồi ( BlockAds ) ✅</string>
             <key>PayloadIdentifier</key>
-            
             <string>vevrl9air2.cloudflare-gateway.com.profile</string>
             <key>PayloadType</key>
             <string>com.apple.dnsSettings.managed</string>
@@ -84,7 +76,7 @@
         </dict>
     </array>
     <key>PayloadDisplayName</key>
-    <string>DNS NHT</string>
+    <string>NHT DNS 🔫</string>
     <key>PayloadIdentifier</key>
     <string>com.cloudflare.dns.profile</string>
     <key>PayloadRemovalDisallowed</key>
